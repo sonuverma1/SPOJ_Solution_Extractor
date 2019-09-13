@@ -32,7 +32,7 @@ Install these libraries:
 
 Now run in terminal (after exit from python interpreter using exit() command) using python3 Spoj_Extractor.py
 
-Input username and password and wait for your zip file in repo folder named as Spoj_Extractor.
+Input username and password and wait for your zip file in repo folder named as Spoj_solution_Extractor.py.
 for more-
 # Contact
 [Email](vermasonu6416@gmail.com)
