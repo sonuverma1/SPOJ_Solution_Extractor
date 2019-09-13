@@ -1,6 +1,6 @@
 # SPOJ_Solution_Extractor
 This is a python program, which extracts all submitted codes by an SPOJ user.
-# REQUIRED INSTALLATION
+# Required installation
 Install following libraries in your system:-
 Install these libraries:
 
