@@ -25,7 +25,7 @@ password=getpass.getpass("Enter Your Password Here: ")
 #path_for_folder = ''
 #driver = webdriver.Chrome(path_for_folder+'Spoj code Extractor/Final/chromedriver')
 
-driver = webdriver.Chrome('/home/mayank/Documents/Projects/Spoj_code_Extractor/Spoj_Code_Extractor/Files/chromedriver')
+driver = webdriver.Chrome('/home/sonu/Documents/Projects/Spoj_code_Extractor/Spoj_Code_Extractor/Files/chromedriver')
 url = 'http://www.spoj.com/login/' 
 driver.get(url)
 time.sleep(1)
